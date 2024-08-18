@@ -3,6 +3,7 @@
 **Packages Installed:**
    requests: For sending HTTP requests to fetch webpage content.
    beautifulsoup4: For parsing the HTML content and extracting relevant data.
+   
 ✨finding geographical location
                  Uses the Geopy library to find geographical coordinates (latitude and longitude) based on the input district and locality and displays the full address.
 **Packages Installed:**
